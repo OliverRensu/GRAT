@@ -26,7 +26,7 @@ Generate a 5s 720p video.
 If you have any question, feel free to contact [Sucheng Ren](oliverrensu@gmail.com)
 
 ```
-@article{ren2025grate,
+@article{ren2025grat,
   title={Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers},
   author={Ren, Sucheng and Yu, Qihang and He, Ju and Yuille, Alan and Chen, Liang-Chieh},
   journal={arXiv preprint arXiv:2505.14687},
