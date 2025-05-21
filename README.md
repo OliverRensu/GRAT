@@ -1,9 +1,9 @@
 # GRAT
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2412.NA-b31b1b.svg)](https://arxiv.org/abs/2412.NA)
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2505.14687-b31b1b.svg)](https://arxiv.org/abs/2505.14687)
 [![project page](https://img.shields.io/badge/project%20page-lightblue)](https://oliverrensu.github.io/project/GRAT/)
 
 
-This repository is the official implementation of our [Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers](https://arxiv.org/abs/xxx)
+This repository is the official implementation of our [Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers](https://arxiv.org/abs/2505.14687)
 
 ## Introduction
 Diffusion-based Transformers have demonstrated impressive generative capabilities, but their high computational costs hinder practical deployment—for example, generating an $8192\times8192$ image can take over an hour on an A100 GPU.
@@ -29,8 +29,8 @@ If you have any question, feel free to contact [Sucheng Ren](oliverrensu@gmail.c
 @article{ren2025grate,
   title={Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers},
   author={Ren, Sucheng and Yu, Qihang and He, Ju and Yuille, Alan and Chen, Liang-Chieh},
-  journal={arXiv preprint arXiv:2412.NA},
-  year={2024}
+  journal={arXiv preprint arXiv:2505.14687},
+  year={2025}
 }
 ```
 
